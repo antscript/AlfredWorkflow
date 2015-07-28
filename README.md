@@ -3,6 +3,6 @@
 
 # list
 
-### 1. Hosts Tool  ( [Download](https://github.com/antscript/AlfredWorkflow/blob/master/hostsTool/hostsTool.alfredworkflow) )
+### 1. Hosts Tool  ( [Download](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/hostsTool/hostsTool.alfredworkflow) )
 #### add domain to hosts file or remove domain from hosts file
 
