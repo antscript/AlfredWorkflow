@@ -16,7 +16,7 @@ USAGE
 <br />
 <br />
 ![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/hostsTool-3.png)
-#### remove domain to hosts (change '127.0.0.1 example.com' to '# 127.0.0.1 example.com')
+#### remove domain from hosts (change '127.0.0.1 example.com' to '# 127.0.0.1 example.com')
 <br />
 <br />
 ![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/hostsTool-4.png)
