@@ -9,9 +9,9 @@
 
 
 ### 2. Image Tool  ( [Download](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/imageTool/ImageTool_by_AntScript.alfredworkflow) )
-![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-1.png)
-![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-2.png)
-![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-3.png)
-![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-4.png)
-![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-5.png)
+![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-1_0.5x.png)
+![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-2_0.5x.png)
+![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-3_0.5x.png)
+![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-4_0.5x.png)
+![hosts workflow](https://raw.githubusercontent.com/antscript/AlfredWorkflow/master/res/imageTool-5_0.5x.png)
 #### jpg to png , png to jpg , resize image [ [Usage](https://github.com/antscript/AlfredWorkflow/tree/master/imageTool) ]
